@@ -1,0 +1,667 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu {
+    display: flex;
+    flex: row;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f7f6;
+    width: 1200px;
+    height: 95.5px;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.menu li {
+    list-style: none;
+    padding-right: 30px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #2d2d2d;
+}
+
+.menu li a:hover {
+    color:#c53537;
+}
+
+.img {
+    padding-right: 390px;
+}
+
+.Background1 {
+    background-image: url("Images/bg1.jpg");
+    background-size: cover;
+    height: 541px;
+    color: #d6d6d6;
+}
+
+.bike {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 20px;
+}
+
+.ride {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 50px;
+    color: #c53537;
+}
+
+.alocal {
+    font-size: 50px;
+    line-height: 0.9;
+    letter-spacing: 0px;
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    padding-bottom: 25px;
+}
+
+.with {
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+}
+
+.ride1 {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 50px;
+    padding-left: 6px;
+}
+
+.twocolor {
+    display: flex;
+    flex: row;
+}
+
+.Background1 {
+    padding-left: 74px;
+    padding-top: 100px;
+}
+
+.booknow {
+    width: 155px;
+    background-color: #c53537;
+}
+
+.booknow p {
+    padding: 12px 16px;
+    font-size: 12px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.padtop {
+    padding-top: 50px;
+}
+
+.booknow:hover, .booknow p:hover {
+    transition: .3s;
+    border: 1px solid #c53537;
+    color: #222222;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.Background2 {
+    background-image: url("Images/bg2.jpg");
+    background-size: cover;
+    height: 519px;
+}
+
+.best {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    letter-spacing: 3px;
+}
+
+.lowest {
+    font-size: 35px;
+    line-height: 1.2;
+    font-style: bolder;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+}
+
+.service {
+    font-size: 35px;
+    line-height: 1.2;
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+}
+
+.in {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #b2b2b2;
+}
+
+.Background2 {
+    padding-left: 74px;
+    padding-top: 100px;
+}
+
+.likeclock {
+    padding-left: 600px;
+}
+
+.likeclock img {
+    padding-right: 150px;
+}
+
+.texts {
+    display: flex;
+    flex: row;
+}
+
+.texts p {
+    color: white;
+    font-size: 13px;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+.Background3 {
+    background-image: url("Images/bg3.jpg");
+    background-size: cover;
+    height: 453px;
+}
+
+.aboutus {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 3px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+}
+
+.lotsof {
+    font-size: 27px;
+    line-height: 1.2;
+    font-weight: bolder;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    padding-bottom: 25px;
+}
+
+.justso {
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    padding-bottom: 30px;
+}
+
+.lotsof span {
+    font-weight: normal;
+}
+
+.Background3 {
+    padding-left: 700px;
+    padding-top: 150px;
+}
+
+.Background4 {
+    background-image: url("Images/bg4.jpg");
+    background-size: cover;
+    height: 461px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.ourfeatures {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 3px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+}
+
+.welead {
+    font-size: 35px;
+    line-height: 1.2;
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+}
+
+.flexrow img {
+    padding-right: 200px;
+}
+
+.flexrow {
+    padding-left: 200px;
+    padding-top: 150px;
+}
+
+.paragraphs {
+    display: flex;
+    flex: row;
+    justify-content: center;
+    padding-left: 180px;
+    padding-top: 130px;
+}
+
+.paragraphs p {
+    padding-right: 180px;
+    font-size: 17px;
+    line-height: 1.2;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+}
+
+.paragraphs span {
+    font-size: 50px;
+    font-weight: normal;
+    padding-top: 200px;
+}
+
+.bicycless {
+    padding-left: 34px;
+}
+
+.brandss {
+    padding-right: 200px;
+}
+
+.lines {
+    display: inline;
+}
+
+.Background5 {
+text-align: center;
+padding-top: 100px;
+}
+
+.portfolio {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 3px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+}
+
+.browseour {
+    font-size: 27px;
+    line-height: 1.2;
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+}
+
+.Background5 {
+    height: 850px;
+    background-color: #fbf8ee;
+}
+
+.oneline {
+    padding-bottom: 20px;
+    padding-top: 80px;
+    padding-left: 20px;
+}
+
+.oneline img {
+    padding-right: 20px;
+}
+
+.twoline img {
+    padding-right: 20px;
+} 
+
+.twoline {
+    padding-left: 20px;
+}
+
+.Background6 {
+    text-align: center;
+    padding-top: 130px;
+    height: 550px;
+    background-color: white;
+}
+
+.ourrangee {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 3px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+}
+
+.ourbicycless {
+    font-size: 27px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+}
+
+.threeline {
+    display: flex;
+    flex: row;
+    justify-content: center;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.threeline p {
+    padding-right: 20px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 26px;
+    line-height: 1.7;
+}
+
+.Background7 {
+    background-image: url("Images/bg5.jpg");
+    background-size: cover;
+    height: 350px;
+    padding-top: 110px;
+}
+
+.fourline {
+    display: flex;
+    flex: row;
+    justify-content: center;
+    padding-left: 120px;
+}
+
+.testimonials {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 3px;
+    padding-left: 127px;
+}
+
+.whatthay {
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    font-size: 36px;
+    line-height: 1.2;
+    padding-right: 120px;
+}
+
+.mountainbikesor {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #b2b2b2;
+    font-size: 13px;
+    line-height: 1.5;
+    padding-right: 120px;
+}
+
+.Background8 {
+    height: 700px;
+    background-image: url("Images/bg6.jpg");
+    background-size: cover;
+    padding-left: 700px;
+}
+
+.weprovide {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 3px;
+    padding-top: 200px;
+}
+
+.anunmatched {
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 48px;
+    line-height: 1.1;
+    letter-spacing: 0px;
+    padding-bottom: 20px;
+}
+
+.weprovidee {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+    padding-bottom: 45px;
+    padding-top: 15px;
+}
+
+.anunmatched span {
+    color: #c53537;
+}
+
+.Background9 img {
+    opacity: .5;
+    padding-right: 50px;
+}
+
+.Background9 img:hover {
+    opacity: .9;
+    transition: .1s;
+}
+
+.Background9 {
+    text-align: center;
+    padding-top: 90px;
+    padding-left: 50px;
+    padding-bottom: 90px;
+}
+
+.Background10 {
+    justify-content: center;
+    background-color: #222222;
+    height: 400px;
+    display: flex;
+    flex: row;
+    padding-top: 80px;
+}
+
+.group1 img {
+    padding-bottom: 45px;
+}
+
+.group1 p {
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #b2b2b2;
+}
+
+.paragraph10 {
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    padding-bottom: 56px;
+}
+
+.group3 {
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #b2b2b2;
+}
+
+.group3 a {
+    text-decoration: none;
+    color: #b2b2b2;
+}
+
+.group3 a:hover {
+    color: white;
+    text-decoration: underline;
+    transition: .3s;
+}
+
+.paragraph11{
+    font-size: 10px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #c53537;
+}
+
+.paragraph11 a {
+    text-decoration: none;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+.paragraph11 a:hover {
+    color: #c53537;
+    transition: .3s;
+}
+
+.paragraph12 {
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #666666;
+    padding-bottom: 15px;
+}
+
+.group4 input {
+    color: #656565;
+    background-color: transparent;
+    font-style: normal;
+    font-weight: 400;
+    border-color: rgba(255,255,255,0.3);
+    text-align: center;
+    font-size: 12px;
+    padding: 13px 60px;
+    line-height: 24px;
+    border: 1px solid;
+}
+
+.booknow2 {
+    width: 155px;
+    background-color: #c53537;
+}
+
+.booknow2 p {
+    padding: 12px 16px;
+    font-size: 12px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.booknow2:hover, .booknow2 p:hover {
+    transition: .3s;
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.group1,
+.group2,
+.group3 {
+    padding-right: 40px;
+}
+
+.group4 form {
+    padding-bottom: 15px;
+}
+
+.group1 a {
+    color: #A7A7A7;
+    padding-right: 18px;
+}
+
+.group1 a:hover {
+    color: white;
+    transition: .3s;
+}
+
+.group1 i {
+    padding-top: 15px;
+}
+
+.Background11 {
+    background-color: #222222;
+    height: 120px;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #666666;
+    font-size: 14px;
+    line-height: 1.6;
+}

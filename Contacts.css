@@ -1,0 +1,363 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu {
+    display: flex;
+    flex: row;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+    height: 95.5px;
+    text-align: center;
+    margin-top: 13px;
+}
+
+.menu li {
+    list-style: none;
+    padding-right: 30px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #2d2d2d;
+}
+
+.menu li a:hover {
+    color:#c53537;
+}
+
+.img {
+    padding-right: 390px;
+}
+
+.twotextrow {
+    display: flex;
+    flex: row;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.firsttext {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 13px;
+    line-height: 1.5;
+    padding-right: 700px;
+}
+
+.secondtext {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.textRentals {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 13px;
+    line-height: 1.5;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    text-align: center;
+}
+
+.Fullcontact {
+    display: flex;
+    float: row;
+    justify-content: center;
+    height: 575px;
+    padding-top: 120px;
+}
+
+.contacts {
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 20px;
+    line-height: 1.2;
+    padding-bottom: 60px;
+}
+
+.address {
+    font-weight: 600;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    padding-bottom: 25px;
+}
+
+.phones {
+    font-weight: 600;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    padding-bottom: 25px;
+}
+
+.email {
+    font-weight: 600;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.phones a,
+.email a {
+    color: #b2b2b2;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.email a:hover,
+.phones a:hover {
+    color: #c53537;
+    transition: .2s;
+}
+
+.address span {
+    font-weight: normal;
+}
+
+.somthingtext {
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 20px;
+    line-height: 1.2;
+    padding-bottom: 50px;
+}
+
+.contactforms input {
+    background-color: #f5f5f5;
+    font-weight: ;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px 326px;
+    display: block;
+    box-sizing: inherit;
+}
+
+.contactforms {
+    padding-left: 60px;
+}
+
+.contactforms textarea {
+    width: 850px;
+    height: 200px;
+    resize: none;
+}
+
+.icons {
+    padding-top: 60px;
+}
+
+.icons i {
+    padding-right: 20px;
+    color: #c53537;
+}
+
+.icons i:hover {
+    color: #222222;
+    transition: .2s;
+}
+
+.booknow {
+    width: 155px;
+    background-color: #c53537;
+}
+
+.booknow p {
+    padding: 12px 16px;
+    font-size: 12px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.booknow:hover, .booknow p:hover {
+    transition: .3s;
+    border: 1px solid #c53537;
+    color: #222222;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.padtop {
+    padding-top: 20px;
+}
+
+.Background10 {
+    justify-content: center;
+    background-color: #222222;
+    height: 400px;
+    display: flex;
+    flex: row;
+    padding-top: 80px;
+}
+
+.group1 img {
+    padding-bottom: 45px;
+}
+
+.group1 p {
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #b2b2b2;
+}
+
+.paragraph10 {
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    padding-bottom: 56px;
+}
+
+.group3 {
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #b2b2b2;
+}
+
+.group3 a {
+    text-decoration: none;
+    color: #b2b2b2;
+}
+
+.group3 a:hover {
+    color: white;
+    text-decoration: underline;
+    transition: .3s;
+}
+
+.paragraph11{
+    font-size: 10px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #c53537;
+}
+
+.paragraph11 a {
+    text-decoration: none;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+.paragraph11 a:hover {
+    color: #c53537;
+    transition: .3s;
+}
+
+.paragraph12 {
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #666666;
+    padding-bottom: 15px;
+}
+
+.group4 input {
+    color: #656565;
+    background-color: transparent;
+    font-style: normal;
+    font-weight: 400;
+    border-color: rgba(255,255,255,0.3);
+    text-align: center;
+    font-size: 12px;
+    padding: 13px 60px;
+    line-height: 24px;
+    border: 1px solid;
+}
+
+.booknow2 {
+    width: 155px;
+    background-color: #c53537;
+}
+
+.booknow2 p {
+    padding: 12px 16px;
+    font-size: 12px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.booknow2:hover, .booknow2 p:hover {
+    transition: .3s;
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.group1,
+.group2,
+.group3 {
+    padding-right: 40px;
+}
+
+.group4 form {
+    padding-bottom: 15px;
+}
+
+.group1 a {
+    color: #A7A7A7;
+    padding-right: 18px;
+}
+
+.group1 a:hover {
+    color: white;
+    transition: .3s;
+}
+
+.group1 i {
+    padding-top: 15px;
+}
+
+.Background11 {
+    background-color: #222222;
+    height: 120px;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #666666;
+    font-size: 14px;
+    line-height: 1.6;
+}
